@@ -1,7 +1,7 @@
 # 🎯 GRAYLOG NEDİR ?
 
 <p align ="center">
-<img src = "gr1">
+<img src = "https://github.com/rasitesdmr/SpringBoot-Graylog-Microservice/blob/master/images/gr1.png">
 </p>
 
 * Graylog, açık kaynaklı ve merkezi bir log yönetim platformudur.
@@ -29,7 +29,7 @@
 # 🎯 MONGODB NEDEN KULLANILIR ?
 
 <p align ="center">
-<img src = "gr2">
+<img src = "https://github.com/rasitesdmr/SpringBoot-Graylog-Microservice/blob/master/images/gr2.png">
 </p>
 
 * Graylog'da MongoDB, yapılandırma ve meta verilerini saklamak için kullanılır.
@@ -43,7 +43,7 @@
 # 🎯 GELF NEDİR ?
 
 <p align ="center">
-<img src = "gr4">
+<img src = "https://github.com/rasitesdmr/SpringBoot-Graylog-Microservice/blob/master/images/gr4.png">
 </p>
 
 * GELF (Graylog Extended Log Format), Graylog tarafından geliştirilmiş bir log formatıdır.
@@ -64,7 +64,7 @@
 # 🎯 ELASTICSEARCH NEDEN KULLANILIR ?
 
 <p align ="center">
-<img src = "gr3">
+<img src = "https://github.com/rasitesdmr/SpringBoot-Graylog-Microservice/blob/master/images/gr3.png">
 </p>
 
 * Graylog'da Elasticsearch, log verilerini depolamak, indekslemek ve hızlı sorgulamalar yapmak için kullanılır.
@@ -110,7 +110,7 @@ docker-compose -f docker-compose.graylog.yaml down -v
 ## 📌 System Input
 
 <p align ="center">
-<img src = "gr5">
+<img src = "https://github.com/rasitesdmr/SpringBoot-Graylog-Microservice/blob/master/images/gr5.png">
 </p>
 
 <p align ="center">
@@ -118,11 +118,11 @@ docker-compose -f docker-compose.graylog.yaml down -v
 </p>
 
 <p align ="center">
-<img src = "gr6">
+<img src = "https://github.com/rasitesdmr/SpringBoot-Graylog-Microservice/blob/master/images/gr6.png">
 </p>
 
 <p align ="center">
-<img src = "gr7">
+<img src = "https://github.com/rasitesdmr/SpringBoot-Graylog-Microservice/blob/master/images/gr7.png">
 </p>
 
 # 🎯 GRAYLOG VE ELK MEMORY ÖLÇÜMÜ ?
@@ -143,7 +143,7 @@ docker stats
 ## 📌 Graylog ile 100000 tane log gönderirsem ne olur ?
 
 <p align ="center">
-<img src = "gr8">
+<img src = "https://github.com/rasitesdmr/SpringBoot-Graylog-Microservice/blob/master/images/gr8.png">
 </p>
 
 * Şuan herhangi bir log girişi olmuyor.

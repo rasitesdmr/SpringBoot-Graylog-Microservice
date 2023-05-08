@@ -130,7 +130,7 @@ docker-compose -f docker-compose.graylog.yaml down -v
 ⏭   http://localhost:1002/swagger-ui/index.html
 
 <p align ="center">
-<img src = "gr8">
+<img src = "https://github.com/rasitesdmr/SpringBoot-Graylog-Microservice/blob/master/images/gr8.png">
 </p>
 
 * Docker container'larının ne kadar RAM kullandığını görmek için docker stats komutunu kullanabilirsiniz. Bu komut,
@@ -141,10 +141,6 @@ docker stats
 ```
 
 ## 📌 Graylog ile 100000 tane log gönderirsem ne olur ?
-
-<p align ="center">
-<img src = "https://github.com/rasitesdmr/SpringBoot-Graylog-Microservice/blob/master/images/gr8.png">
-</p>
 
 * Şuan herhangi bir log girişi olmuyor.
 
